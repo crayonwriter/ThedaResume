@@ -2,4 +2,6 @@
     <string name="app_name">ThedaResume</string>
 
     <string name="heading">My Resume</string>
+    <string name="myname">Theda K. Rogers</string>
+    <string name="emailText">Contact Me</string>
 </resources>
