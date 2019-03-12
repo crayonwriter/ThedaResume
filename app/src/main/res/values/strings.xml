@@ -4,4 +4,9 @@
     <string name="heading">My Resume</string>
     <string name="myname">Theda K. Rogers</string>
     <string name="emailText">Contact Me</string>
+    <string name="education">Education</string>
+    <string name="technological_computer_skills">Technological/Computer Skills</string>
+    <string name="the_fun_stuff">The fun stuff!</string>
+
+
 </resources>
