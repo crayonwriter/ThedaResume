@@ -51,12 +51,12 @@
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Professional Writing and Editing Experience" />
+            android:text="@string/professional_writing_and_editing_experience" />
 
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Other Work Experience" />
+            android:text="@string/other_work_experience" />
 
         <Button
             android:layout_width="match_parent"
