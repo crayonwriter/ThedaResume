@@ -39,26 +39,31 @@
         android:orientation="vertical">
 
         <Button
+            android:id="@+id/education"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/education" />
 
         <Button
+            android:id="@+id/skills"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/technological_computer_skills" />
 
         <Button
+            android:id="@+id/writing_experience"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/professional_writing_and_editing_experience" />
 
         <Button
+            android:id="@+id/other_experience"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/other_work_experience" />
 
         <Button
+            android:id="@+id/fun_stuff"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/the_fun_stuff" />
